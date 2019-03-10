@@ -1,0 +1,1 @@
+export { TypeFTag } from './TypeF'
