@@ -33,5 +33,8 @@ async fetchFeliCaIDm() {
 ## Loadmaps
 - read unencrypted data
 
+## npm package
+[felica-driver](https://www.npmjs.com/package/felica_driver)
+
 ## License
 MIT
