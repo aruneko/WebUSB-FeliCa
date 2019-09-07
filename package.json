@@ -1,6 +1,6 @@
 {
   "name": "felica_driver",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "FeliCa Driver for WebUSB",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
